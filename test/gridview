@@ -1,0 +1,29 @@
+ <div class="row">
+    <div class="column">
+        <div class="card">
+            <img src="" style="width:100%">
+            <h2>Titel</h2>
+            <p class="cardprice">50000,00€ / 1 BTC</p>
+            <p>Descirption</p>
+            <a href="product.php"><p><button>Details</button></p></a>
+        </div> 
+    </div>
+    <div class="column">
+        <div class="card">
+            <img src="" style="width:100%">
+            <h2>Titel</h2>
+            <p class="cardprice">50000,00€ / 1 BTC</p>
+            <p>Description</p>
+            <a href="product.php"><p><button>Details</button></p></a>
+        </div> 
+    </div>
+    <div class="column">
+        <div class="card">
+            <img src="" style="width:100%">
+            <h2>Titel</h2>
+            <p class="cardprice">50000,00€ / 1 BTC</p>
+            <p>Descirption</p>
+            <a href="product.php"><p><button>Details</button></p></a>
+        </div> 
+    </div>
+</div> 
